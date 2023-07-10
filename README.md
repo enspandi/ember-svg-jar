@@ -38,14 +38,9 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [🍩 Features](#-features)
 - [👋 Getting started](#-getting-started)
 - [🎮 Usage](#-usage)
-  - [Helper](#helper)
-  - [Accessibility](#accessibility)
-  - [Assets from Node modules](#assets-from-node-modules)
-  - [Usage in an addon](#usage-in-an-addon)
 - [🔧 Configuration](#-configuration)
 - [❓ FAQ](#-faq)
 - [👓 Compatibility](#-compatibility)
@@ -54,7 +49,7 @@
 
 ## 🍩 Features
 
-Here's some of the useful features:
+Here's some of useful features:
 
 - <a href="https://svgjar-demo.web.app" target="_blank">Visual workflow</a> to find and use SVGs the fastest way possible
 - Automatic SVG optimization (it can cut file size by half or more)
@@ -159,8 +154,8 @@ of the addon, it should be listed as one of the `dependencies` and not `devDepen
 
 The addon should be useful without any configuration. But it wants to be very configurable when it's time to adjust it for your needs.
 
-- [All configuration options](packages/ember-svg-jar/docs/configuration.md)
-- [Advanced usage examples](packages/ember-svg-jar/docs/examples.md)
+- [All configuration options](docs/configuration.md)
+- [Advanced usage examples](docs/examples.md)
 
 ## ❓ FAQ
 
